@@ -67,6 +67,7 @@ if (!empty($_POST)) {header ('Location: contactcheck.php');}
                         <input type="submit" value="送信" class="button">
                     </div>
                  </form>
+                 あ
         </div>
     </main>
 
